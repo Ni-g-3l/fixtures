@@ -28,6 +28,8 @@ Assets are typically organized by category or file format:
 /img
   ├─ vectors/
   ├─ sequences/
+  ├─ animated/
+/vids
 ```
 
 This structure may evolve over time as new test assets are added.
