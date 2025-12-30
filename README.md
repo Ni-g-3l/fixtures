@@ -25,6 +25,8 @@ The repository includes, but is not limited to:
 Assets are typically organized by category or file format:
 
 ```
+/geo
+  ├─ baked/
 /img
   ├─ vectors/
   ├─ sequences/
