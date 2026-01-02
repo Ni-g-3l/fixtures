@@ -34,6 +34,12 @@ Do not use this asset until licensing has been clarified.
 * [Earth](img/animated/img_ani_earth.gif) - Julien Tromeur - [Source](https://pixabay.com/gifs/cartoon-3d-world-rockets-earth-480/) - [Pixabay License](https://pixabay.com/service/license-summary/)
 * [Earth](img/animated/img_ani_run.gif) - Lin Tong - [Source](https://pixabay.com/gifs/running-cartoon-3d-yellow-3129/) - [Pixabay License](https://pixabay.com/service/license-summary/)
 
+### Environments
+
+* [Hilbert's Mill Conference Room](img/env/img_env_conference_room.exr) - Grzegorz - [Source](https://openhdri.org/h/hilberts-mill-conference-room) - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+* [Historic Flour Mill](img/env/img_env_conference_flour.exr) - Grzegorz - [Source](https://openhdri.org/h/historic-flour-mill) - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+* [Skarpa Winter Forest](img/env/img_env_winter_forest.exr) - Grzegorz - [Source](https://openhdri.org/h/skarpa-winter-forest) - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
 ### Sequences
 
 * [Playing Cards](img/sequences/playing_cards) - Volker Thimm -[Source](https://www.pexels.com/video/a-jack-of-clubs-card-and-poker-chips-on-a-gambling-table-15800853/) - [Pexels License](https://www.pexels.com/license/)
