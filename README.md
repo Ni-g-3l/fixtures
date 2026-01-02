@@ -31,6 +31,7 @@ Assets are typically organized by category or file format:
   ├─ vectors/
   ├─ sequences/
   ├─ animated/
+/music
 /vids
 ```
 
